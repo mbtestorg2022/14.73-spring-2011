@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 file: null
 resourcetype: Video
-title: "Lecture 1: Introduction\t"
+title: 'Lecture 1: Introduction '
 uid: 4c733ff7-f772-ed8e-38f7-d0e890648a32
 video_files:
   archive_url: http://www.archive.org/download/MIT14.73S11/MIT14_73S11_lec01_300k.mp4
