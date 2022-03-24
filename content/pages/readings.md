@@ -145,7 +145,7 @@ Food III: Is there a nutrition based poverty trap-the hidden trap
 Health I: Delivering healthcare, a case study from India
 {{< tdclose >}}
 {{< tdopen >}}
-\*Banerjee, Abhijit, and Esther Duflo. ["Improving Health Care Delivery in India: Udaipur Case Study." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF - 1.4MB)](http://economics.mit.edu/files/5172)
+\*Banerjee, Abhijit, and Esther Duflo. ["Improving Health Care Delivery in India: Udaipur Case Study." (PDF - 1.4MB)](http://economics.mit.edu/files/5172)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -193,7 +193,7 @@ Education I: Setting the stage
 Education II: How to make schools work for the poor: Pratham's experience
 {{< tdclose >}}
 {{< tdopen >}}
-\*Banerjee, Abhijit, Shawn Cole, et al. "[Remedying Education: Evidence from Two Randomized Experiments in India." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](http://economics.mit.edu/files/804). _The Quarterly Journal of Economics_ 122, no. 3 (2007): 1235–64.
+\*Banerjee, Abhijit, Shawn Cole, et al. "[Remedying Education: Evidence from Two Randomized Experiments in India." (PDF)](http://economics.mit.edu/files/804). _The Quarterly Journal of Economics_ 122, no. 3 (2007): 1235–64.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -325,7 +325,7 @@ Credit II: The economics of lending to the poor (cont.)
 
 \*Chapter 7 in \[Poor Economics\]. pp. 168–80.
 
-Banjerjee, Abhijit, Esther Duflo, Rachel Glennerster, and Cynthia Kinnan. "[The Miracle of Microfinance? Evidence from a Randomized Evaluation." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](http://economics.mit.edu/files/4162) Working paper, 2009.
+Banjerjee, Abhijit, Esther Duflo, Rachel Glennerster, and Cynthia Kinnan. "[The Miracle of Microfinance? Evidence from a Randomized Evaluation." (PDF)](http://economics.mit.edu/files/4162) Working paper, 2009.
 
 
 {{< tdclose >}}

@@ -253,7 +253,7 @@ The (not so simple) economics of lending to the poor (cont.) (Slides unavailable
 20
 {{< tdclose >}}
 {{< tdopen >}}
-[Savings (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)]({{< baseurl >}}/resources/mit14_73s11_lec20_slides)
+[Savings (PDF)]({{< baseurl >}}/resources/mit14_73s11_lec20_slides)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -301,7 +301,7 @@ Entrepreneurs and workers (cont.) (Slides unavailable)
 24
 {{< tdclose >}}
 {{< tdopen >}}
-[Policies, politics: Can evidence play a role in the fight against poverty? (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)]({{< baseurl >}}/resources/mit14_73s11_lec24_slides)
+[Policies, politics: Can evidence play a role in the fight against poverty? (PDF)]({{< baseurl >}}/resources/mit14_73s11_lec24_slides)
 {{< tdclose >}}
 
 {{< trclose >}}
