@@ -4,6 +4,7 @@ description: This resource contains information regarding five thoughts in place
   a sweeping conclusion.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/14-73-the-challenge-of-world-poverty-spring-2011/c703e812ef86b3c3419dccc0c447c128_MIT14_73S11_Lec26_slides.pdf
 file_type: application/pdf
+parent_uid: 370e7e17-0762-7fb6-3218-87fe9acd107a
 resourcetype: Document
 title: Five thoughts in place of a sweeping conclusion
 uid: c703e812-ef86-b3c3-419d-ccc0c447c128

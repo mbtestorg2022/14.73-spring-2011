@@ -32,7 +32,7 @@ At the end of this course, students should have a good sense of the key question
 
 At MIT:
 
-*   [14.74 _Foundations of Development Policy_](/courses/14-74-foundations-of-development-policy-spring-2009/)
+*   [14.74 _Foundations of Development Policy_](/courses/14-74-foundations-of-development-policy-spring-2009)
 *   Majoring in economics
 *   Working with other development organizations at MIT (e.g., UROP ![](/images/educator/icon-question-urop.png) for [J-PAL](http://www.povertyactionlab.org/), [D-LAB](http://d-lab.mit.edu/), [PKG Fellowships](https://pkgcenter.mit.edu/programs/fellowships/pkg-fellowships/))
 

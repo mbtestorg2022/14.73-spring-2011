@@ -4,6 +4,7 @@ description: This resource contains information regarding is it possible to deli
   quality education to the poor? The Pratham-J-PAL Partnership.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/14-73-the-challenge-of-world-poverty-spring-2011/a29b94cef837f7ebfc96d22def8ccb98_MIT14_73S11_Lec10_slides.pdf
 file_type: application/pdf
+parent_uid: 370e7e17-0762-7fb6-3218-87fe9acd107a
 resourcetype: Document
 title: Is it possible to deliver  quality education to the poor? The Pratham-J-PAL
   Partnership
